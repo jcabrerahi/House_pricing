@@ -1,7 +1,7 @@
 # House_pricing
 Predict House Pricing with Pytorch, download the Jupyter Notebook or run directly online in the link below:
 
-Link to repository: [Jovian ML repository](https://jovian.ml/jcabrerahi/housing-linear-minimal)
+Link to repository: [My Jovian ML repository](https://jovian.ml/jcabrerahi/housing-linear-minimal)
 
 ## Requirements
 
@@ -10,7 +10,7 @@ Link to repository: [Jovian ML repository](https://jovian.ml/jcabrerahi/housing-
 - Matplotlib
 - Numpy
 
-```
+```python
 import torch
 import torchvision
 import numpy as np
